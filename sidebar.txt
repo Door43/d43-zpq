@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zpq:home|Door43 (zpq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zpq|d43-zpq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zpq/archive/master.zip|d43-zpq.zip]]
+
+**Recent Changes**
+{{changes>ns = zpq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zpq|Ethnologue data]]
+
